@@ -10,12 +10,12 @@ This project implements a Curriculum Learning-based Session Recommendation Syste
 CL/
 │
 ├── Notebooks/
-│   ├── DL_Curriculum_Learning.ipynb   # Main training notebook
-│   └── CL_Train.ipynb                 # 3rd novelty implementation
+│   ├── DL_Curriculum_Learning.ipynb  # Main training notebook
+│   └── CL_Train.ipynb                # 3rd novelty implementation
 │
 ├── Data/
-│   ├── yoochoose1_64/                 # Dataset folder
-│   └── sample.json                    # Sample dataset preview (10 samples)
+│   ├── yoochoose1_64/                # Dataset folder
+│   └── sample.json                   # Sample dataset preview (10 samples)
 │
 ├── src/
 │   ├── create_transe_emb.py          # Generates TransE embeddings from sequences
@@ -23,9 +23,9 @@ CL/
 │
 ├── results/                          # Output results (metrics, logs, outputs)
 │
-├── requirements.txt                 # Required dependencies
+├── requirements.txt                  # Required dependencies
 │
-└── README.md                   # Project documentation
+└── README.md                         # Project documentation
 ```
 
 ---
