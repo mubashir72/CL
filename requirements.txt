@@ -1,0 +1,21 @@
+# Core deep learning stack
+tensorflow
+
+# Keras (usually included with TensorFlow, but listed explicitly for compatibility)
+keras
+
+# Self-attention layer package
+keras-self-attention
+
+# Knowledge graph / embedding library
+ampligraph
+
+# Progress bar utility
+tqdm
+
+# Standard library modules below do NOT need installation:
+# os
+# gc
+# _pickle (cPickle)
+# numpy is usually installed with TensorFlow, but explicit is safer:
+numpy
