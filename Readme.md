@@ -30,7 +30,7 @@ CL/
 ## 1. Clone or Download the Project
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/mubashir72/CL.git
 cd CL
 ```
 
