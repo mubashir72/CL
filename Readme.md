@@ -98,7 +98,7 @@ After generating embeddings:
 1. Open:
 
 ```bash
-Notebooks/CL Train.ipynb
+Notebooks/DL_Curriculum_Learning.ipynb
 ```
 
 2. Run all notebook cells sequentially.
@@ -126,10 +126,10 @@ all_train_seq.txt
 create_transe_emb.py
         │
         ▼
-    transe_emb
+transe_emb
         │
         ▼
-CL Train.ipynb
+DL_Curriculum_Learning.ipynb
         │
         ▼
 Model Training
